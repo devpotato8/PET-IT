@@ -5,7 +5,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Pet-It은? </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
       <p>'Pet-It'은 반려동물 쇼핑몰 사이트로 국비지원교육과정 세미프로젝트로 만들어진 사이트입니다!</p>
-      <p>-주요특징-</li></li><li>Java, Servlet 등, legacy base로 구현되었습니다</p>
+      <p>👀 주요특징</p>
+        <p>Java, Servlet 등, legacy base로 구현되었습니다</p>
       <p>다양한 Open API를 활용하여 사용자 편의성을 도모하였습니다</p>
     </div> 
     </div>
